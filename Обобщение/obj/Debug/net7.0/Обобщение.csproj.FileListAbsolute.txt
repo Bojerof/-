@@ -1,0 +1,15 @@
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/bin/Debug/net7.0/Обобщение
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/bin/Debug/net7.0/Обобщение.deps.json
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/bin/Debug/net7.0/Обобщение.runtimeconfig.json
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/bin/Debug/net7.0/Обобщение.dll
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/bin/Debug/net7.0/Обобщение.pdb
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.csproj.AssemblyReference.cache
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.AssemblyInfoInputs.cache
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.AssemblyInfo.cs
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.csproj.CoreCompileInputs.cache
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.dll
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/refint/Обобщение.dll
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.pdb
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/Обобщение.genruntimeconfig.cache
+/Users/bojeroff/Desktop/Самообучение/OOP/Обобщение/obj/Debug/net7.0/ref/Обобщение.dll
